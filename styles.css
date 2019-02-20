@@ -1,0 +1,100 @@
+.chevron.down.icon {
+  padding-top: 3px;
+  padding-left: 5px;
+  color: grey;
+}
+
+.right.item.menutext{
+  color: grey;
+  font-size: 14px;
+
+}
+
+.button.container{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.ui.tiny.orange.basic.button{
+
+}
+
+.gear.icon {
+
+  margin-top: 5px;
+  width: 25px;
+  height: 20px;
+}
+
+.ui.image.centered.logo {
+  margin-top: 3%;
+  margin-bottom: 8px;
+
+  height: 7%;
+  width: 19%;
+
+
+}
+
+.ui.small.icon.input.centered {
+  width: 60%;
+  border: solid orange;
+  margin-left: 20%;
+
+}
+.ui.borderless.menu.centered.icons {
+  width: 58%;
+  border: none;
+  box-shadow: none;
+
+margin-left: 21%
+
+}
+
+.left.menu.icons {
+  padding-top: 2%;
+}
+
+.right.menu.icons{
+  padding-bottom: 5%;
+}
+
+.item.right.icon {
+  color: orange;
+
+}
+.text.heading {
+  font-size: x-large;
+  font-style: italic;
+  color: grey;
+}
+
+.column.first{
+  color: red;
+}
+
+.column.first a{
+  color: black
+}
+
+.column.second{
+  color: green;
+}
+
+.column.third{
+  color: purple;
+}
+
+.column.fourth{
+  color: teal;
+}
+.text.column.header {
+  margin-top: 10%;
+  font-size: 22px;
+  margin-bottom: 5%;
+}
+
+.ui.four.column.grid {
+  margin-left: 6%;
+}
+
